@@ -1,13 +1,7 @@
 <template>
   <div class="container">
     <h1> Página en mantenimiento</h1>
-    <img src="../assets/saludo.png" class="img-3" />
-    <div class="container">
-      <p>
-      
-    </p>
-    </div>
-    
+    <img src="../assets/saludo.png" class="img-3" /> 
   </div>
 </template>
 
